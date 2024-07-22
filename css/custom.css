@@ -313,6 +313,9 @@ html  {
     font-family: "Cairo", sans-serif !important;
     font-size: 20px !important;
 }
+.f20-en {
+    font-size: 20px !important;
+}
 
 .f19 {
     font-family: "Cairo", sans-serif !important;
@@ -571,4 +574,9 @@ html  {
 
  .icon-hover-call:hover {
     background-color: #444 !important;
+ }
+
+ .book-now {
+    width: 350px;
+    text-align: center;
  }
