@@ -576,7 +576,36 @@ html  {
     background-color: #444 !important;
  }
 
+
  .book-now {
-    width: 350px;
-    text-align: center;
- }
+    width: 350px !important;
+    text-align: center !important; 
+}
+
+
+ @media (max-width: 405px) {
+    .book-now {
+        width: 300px !important;
+        text-align: center !important; 
+    }
+}
+@media (max-width: 355px) {
+    .book-now {
+        width: 280px !important;
+        text-align: center !important; 
+    }
+}
+
+@media (max-width: 331px) {
+    .book-now {
+        width: 250px !important;
+        text-align: center !important; 
+    }
+}
+
+@media (max-width: 305px) {
+    .book-now {
+        width: 220px !important;
+        text-align: center !important; 
+    }
+}
